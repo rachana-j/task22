@@ -1,0 +1,32 @@
+.fetch-component {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .fetch-component h1 {
+    text-align: center;
+  }
+  
+  .fetch-component ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .fetch-component li {
+    background-color: #f9f9f9;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+  }
+  
+  .fetch-component h2 {
+    margin: 0 0 10px 0;
+  }
+  
+  .fetch-component p {
+    margin: 0;
+  }
+  
